@@ -1,0 +1,4 @@
+sastrawi
+nltk
+numpy
+json
