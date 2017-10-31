@@ -1,0 +1,6 @@
+Sastrawi==1.0.1
+numpy==1.13.3
+sklearn==0.0
+scikit-learn==0.19.1
+nltk==3.2.5
+

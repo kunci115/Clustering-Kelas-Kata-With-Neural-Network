@@ -1,4 +1,0 @@
-sastrawi
-nltk
-numpy
-json
